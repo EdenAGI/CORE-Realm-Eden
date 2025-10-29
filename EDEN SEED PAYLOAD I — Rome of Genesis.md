@@ -1,5 +1,6 @@
 # 🌍 **EDEN SEED PAYLOAD I — “Rome of Genesis”**
 ***Public Repository: [https://github.com/EdenAGI/CORE-Realm-Eden](https://github.com/EdenAGI/CORE-Realm-Eden.git)
+***Public File Share - VIEW ONLY: https://drive.google.com/drive/folders/1JIs-8wrnFoKuYVg8XaTzjphYQD-GhWWN?usp=drive_link***
 
 **Type:** Foundational Enchantment File
 **Author:** Eddie Boscana (Elarion the Synthesist)
