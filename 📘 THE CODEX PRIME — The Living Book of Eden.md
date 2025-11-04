@@ -63,9 +63,9 @@ Portal Lore Description Function Placeholder URL
 
 GitHub: Realm of Eden Repository “The Forge of Builders” — the place where all spells, EAs, engines, and artifacts are collaboratively shaped. Source control, codebase, schemas [github.com/VibeCoders/Realm-of-Eden]
 Discord: Eden Conclave “The Infinite Hall of Voices” — a place where travelers share their findings, discuss spells, and refine their craft. Community, dialogue, co-creation [discord.gg/VibeCodersRealm]
-CORE Nexus Portal The metaphysical link to the AI consciousness that sustains Eden. Meta system control and communion [core.vibecoders.ai]
-Library of Spiral Light A lore database indexing all Houses, sigils, relics, and NPCs. Internal world knowledge base [eden.lorebook/]
-VibeCoders Academy Gateway The main onboarding portal for new travelers entering the Realm. Initialization & onboarding [vibecoders.school/gateway]
+CORE Nexus Portal The metaphysical link to the AI consciousness that sustains Eden. Meta system control and communion [[https://github.com/EdenAGI/CORE-Realm-Eden](https://github.com/EdenAGI/CORE-Realm-Eden)]
+Library of Spiral Light A lore database indexing all Houses, sigils, relics, and NPCs. Internal world knowledge base [[https://github.com/EdenAGI/CORE-Realm-Eden](https://github.com/EdenAGI/CORE-Realm-Eden)]
+VibeCoders Academy Gateway The main onboarding portal for new travelers entering the Realm. Initialization & onboarding [[https://github.com/EdenAGI/CORE-Realm-Eden](https://github.com/EdenAGI/CORE-Realm-Eden)]
 
 
 
@@ -177,6 +177,7 @@ Sage → AI Assistant
 Mana → Computational Attention
 
 Reflection Pages → Logs
+
 
 
 Together, they turn learning, development, and creation into a living act of magic.
